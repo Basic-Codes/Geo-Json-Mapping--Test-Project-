@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "name": "MOH_PHU_BOUNDARY",
+    "crs": {
+      "type": "name",
+      "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+            "FID": 1,
+            "OGF_ID": 71878062.0,
+            "PHU_ID": 2270,
+            "NAME_ENG": "York Region Public Health",
+            "NAME_FR": "Service de santé de la région de York",
+            "GEO_UPD_DT": " ",
+            "EFF_DATE": "20200515125615",
+            "SHAPE_Length": 2.5242900468402691,
+            "SHAPE_Area": 0.23566476505626796
+        },
+        "geometry": {
+          "type": "MultiPolygon",
+          "coordinates": [
+            [
+                [
+                    [
+                      -90.43292999267577,
+                      24.61456036481457
+                    ],
+                    [
+                      -90.40546417236328,
+                      24.59146097387173
+                    ],
+                    [
+                      -90.42194366455078,
+                      24.535880120536756
+                    ],
+                    [
+                      -90.46485900878905,
+                      24.516514713360014
+                    ],
+                    [
+                      -90.5328369140625,
+                      24.53463082955918
+                    ],
+                    [
+                      -90.53730010986328,
+                      24.581782934883
+                    ],
+                    [
+                      -90.50399780273436,
+                      24.607381281129555
+                    ],
+                    [
+                      -90.43292999267577,
+                      24.61456036481457
+                    ]
+                ]
+            ]
+          ]
+        }
+      }
+    ]
+  }
